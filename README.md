@@ -14,7 +14,7 @@ Right now, the project is entirely focused on the most important part of any pla
 | D / Right Arrow | Walk Right |
 | A / Left Arrow | Walk Left |
 | W / UP Arrow | Jump |
-| Ctrl | Sneak / Crouch |
+| S | Sneak / Crouch |
 | Shift | Sprint / Run |
 
 ### Controller (Xinput)
@@ -22,9 +22,9 @@ Right now, the project is entirely focused on the most important part of any pla
 | :---: | :---: |
 | Left Analog -> Right | Walk Right |
 | Left Analog <- Left | Walk Left |
+| Right Trigger | Sprint / Run |
 | A | Jump |
 | B | Sneak / Crouch |
-| Right Trigger | Sprint / Run |
 
 # Setup & Tweaking
 
